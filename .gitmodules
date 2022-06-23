@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "avidaR"]
+	path = avidaR
+	url = https://gitlab.com/fortunalab/avidar
+	shallow = true
+	registered = true
